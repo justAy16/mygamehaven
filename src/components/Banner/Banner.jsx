@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Banner = () => {
   return (
     <div className="banner__wrapper">
-      <img src="images/background1copy.TIFF" alt="" />
+      <img src="images/background1 copy.png" alt="" />
       <div className="banner__text">
         <h2>Welcome to MyGameHaven360</h2>
         <h1>
