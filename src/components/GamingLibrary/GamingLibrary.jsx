@@ -1,6 +1,6 @@
 import React from "react";
 import "./GamingLibrary.scss";
-const GamingLibrary = () => {
+const GamingLibrary = ({}) => {
   return (
     <div className="gaming__wrapper">
       <h1>

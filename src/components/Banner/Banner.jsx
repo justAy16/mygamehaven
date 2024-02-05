@@ -8,9 +8,9 @@ const Banner = () => {
       <div className="banner__text">
         <h2>Welcome to MyGameHaven360</h2>
         <h1>
-          <span>BROWSE</span> OUR POPULAR <br /> GAMES HERE
+          <span>BROWSE</span> POPULAR <br /> GAMES HERE
         </h1>
-        <Link to='/browse'>
+        <Link to='/library'>
         <button >Browse Now</button>
         </Link>
       </div>

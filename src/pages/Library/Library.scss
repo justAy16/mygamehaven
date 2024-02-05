@@ -1,0 +1,19 @@
+@import '../../index.scss';
+.library__wrapper{
+    background: rgb(27, 27, 27);
+    padding: 35px 5px 20px 15px;
+    width: 93%;
+    margin: auto;
+    border-radius: 23px;
+    h1 {
+        margin-left: 20px;
+        color: #fff;
+        @include tablet{
+          font-size: 23px;
+        }
+        margin-top: 10px;
+        span {
+          color: #e75e8d;
+        }
+      }
+}

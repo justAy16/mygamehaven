@@ -37,7 +37,7 @@ const Header = () => {
             Home
           </Link>
           <Link
-            to="/browse"
+            to="/library"
             onClick={() => handleOptionClick("Browse")}
             style={{
               color: selectedOption === "Browse" ? "#e75e8d" : "initial",

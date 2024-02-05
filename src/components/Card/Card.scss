@@ -20,7 +20,7 @@
     align-items: flex-start;
     border-radius: 10px;
     margin-right: 70px;
-
+    cursor: pointer;
    
 
 
@@ -36,10 +36,11 @@
       color: #ececec;
     }
     p {
-      margin-bottom: 10px;
+    //   margin-bottom: 10px;
       margin-left: 10px;
       font-size: 15px;
       color: #e7e7e7;
+      bottom: 0;
     }
   }
 }
